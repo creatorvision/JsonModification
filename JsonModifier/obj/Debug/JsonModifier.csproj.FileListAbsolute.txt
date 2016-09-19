@@ -1,0 +1,8 @@
+C:\Code_Learn\Algorithm\JsonModifier\JsonModifier\bin\Debug\JsonModifier.exe.config
+C:\Code_Learn\Algorithm\JsonModifier\JsonModifier\bin\Debug\JsonModifier.exe
+C:\Code_Learn\Algorithm\JsonModifier\JsonModifier\bin\Debug\JsonModifier.pdb
+C:\Code_Learn\Algorithm\JsonModifier\JsonModifier\bin\Debug\Newtonsoft.Json.dll
+C:\Code_Learn\Algorithm\JsonModifier\JsonModifier\bin\Debug\Newtonsoft.Json.xml
+C:\Code_Learn\Algorithm\JsonModifier\JsonModifier\obj\Debug\JsonModifier.csprojResolveAssemblyReference.cache
+C:\Code_Learn\Algorithm\JsonModifier\JsonModifier\obj\Debug\JsonModifier.exe
+C:\Code_Learn\Algorithm\JsonModifier\JsonModifier\obj\Debug\JsonModifier.pdb
