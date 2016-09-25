@@ -1,0 +1,1 @@
+Simple C# application to extract only the meaningfull/ required Json from the input of Json-String. Used Json.Net library to do Json Manipulation.
